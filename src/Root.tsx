@@ -1,5 +1,3 @@
-import "./Root.css";
-
 function App() {
   return (
     <>
